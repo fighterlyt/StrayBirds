@@ -116,11 +116,11 @@ disqus:
 #################################### global configure #######################################
 
 username: fighterlyt
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 构日新，日日新,止于至善
+title: 苟日新，日日新,止于至善
 description: 人似秋鸿来有信，事如春梦了无痕
 theme: midnight
 disqusname: fighterlyt
