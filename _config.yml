@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: fighterlyt
-baseurl: /blog
+baseurl: /
 markdown: redcarpet
 safe: false
 highlighter: pygments
