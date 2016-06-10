@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /blog
+url:  /
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -109,8 +109,8 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: minixalpha
+  config: true
+  id: fighterlyt
 
 
 #################################### global configure #######################################
