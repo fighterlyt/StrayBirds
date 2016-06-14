@@ -120,8 +120,8 @@ baseurl:
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 苟日新，日日新,止于至善
-description: 人似秋鸿来有信，事如春梦了无痕
+title: 苟日新,日日新,止于至善
+description: 人似秋鸿来有信,事如春梦了无痕
 theme: midnight
 disqusname: fighterlyt
 
